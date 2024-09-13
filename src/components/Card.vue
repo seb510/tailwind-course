@@ -1,5 +1,9 @@
-<script setup>
-
+<script>
+  export  default {
+    props: {
+      value: Object
+    }
+  }
 </script>
 
 <template>

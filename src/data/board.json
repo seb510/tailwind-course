@@ -1,0 +1,192 @@
+{
+  "boards": [
+    {
+      "id": 1,
+      "title": "Frontend Learning",
+      "groups": [
+        {
+          "id": 1,
+          "title": "JavaScript",
+          "cards": [
+            {
+              "id": 1,
+              "title": "Variables",
+              "createdAt": "Apr 17, 2024",
+              "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+              "author": "John Doe",
+              "tags": [
+                {
+                  "id": 1,
+                  "title": "Basics",
+                  "color": "#FF5733"
+                },
+                {
+                  "id": 2,
+                  "title": "JavaScript",
+                  "color": "#3498DB"
+                }
+              ]
+            },
+            {
+              "id": 2,
+              "title": "Functions",
+              "createdAt": "Apr 18, 2024",
+              "content": "Suspendisse potenti. Nulla facilisi.",
+              "author": "Jane Smith",
+              "tags": [
+                {
+                  "id": 3,
+                  "title": "Functions",
+                  "color": "#2ECC71"
+                },
+                {
+                  "id": 4,
+                  "title": "JavaScript",
+                  "color": "#3498DB"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "title": "CSS",
+          "cards": [
+            {
+              "id": 3,
+              "title": "Flexbox",
+              "createdAt": "Apr 19, 2024",
+              "content": "Donec fringilla sem vel velit pretium, in lobortis turpis ullamcorper.",
+              "author": "Emily White",
+              "tags": [
+                {
+                  "id": 5,
+                  "title": "Layout",
+                  "color": "#9B59B6"
+                },
+                {
+                  "id": 6,
+                  "title": "CSS",
+                  "color": "#E67E22"
+                }
+              ]
+            },
+            {
+              "id": 4,
+              "title": "Grid",
+              "createdAt": "Apr 20, 2024",
+              "content": "Proin sodales turpis at elit vehicula, sed viverra nulla cursus.",
+              "author": "Michael Brown",
+              "tags": [
+                {
+                  "id": 7,
+                  "title": "Grid",
+                  "color": "#16A085"
+                },
+                {
+                  "id": 8,
+                  "title": "CSS",
+                  "color": "#E67E22"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Backend Learning",
+      "groups": [
+        {
+          "id": 3,
+          "title": "Node.js",
+          "cards": [
+            {
+              "id": 5,
+              "title": "Event Loop",
+              "createdAt": "Apr 21, 2024",
+              "content": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem.",
+              "author": "Sarah Johnson",
+              "tags": [
+                {
+                  "id": 9,
+                  "title": "Node.js",
+                  "color": "#1ABC9C"
+                },
+                {
+                  "id": 10,
+                  "title": "Concurrency",
+                  "color": "#F39C12"
+                }
+              ]
+            },
+            {
+              "id": 6,
+              "title": "Streams",
+              "createdAt": "Apr 22, 2024",
+              "content": "At vero eos et accusamus et iusto odio dignissimos ducimus.",
+              "author": "James Williams",
+              "tags": [
+                {
+                  "id": 11,
+                  "title": "Streams",
+                  "color": "#2980B9"
+                },
+                {
+                  "id": 12,
+                  "title": "Node.js",
+                  "color": "#1ABC9C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "title": "Databases",
+          "cards": [
+            {
+              "id": 7,
+              "title": "SQL vs NoSQL",
+              "createdAt": "Apr 23, 2024",
+              "content": "Quis autem vel eum iure reprehenderit qui in ea voluptate velit.",
+              "author": "Anna Davis",
+              "tags": [
+                {
+                  "id": 13,
+                  "title": "Databases",
+                  "color": "#8E44AD"
+                },
+                {
+                  "id": 14,
+                  "title": "SQL",
+                  "color": "#C0392B"
+                }
+              ]
+            },
+            {
+              "id": 8,
+              "title": "Indexes",
+              "createdAt": "Apr 24, 2024",
+              "content": "Ut enim ad minima veniam, quis nostrum exercitationem ullam.",
+              "author": "David Miller",
+              "tags": [
+                {
+                  "id": 15,
+                  "title": "Indexes",
+                  "color": "#34495E"
+                },
+                {
+                  "id": 16,
+                  "title": "Databases",
+                  "color": "#8E44AD"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
